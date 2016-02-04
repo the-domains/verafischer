@@ -1,0 +1,28 @@
+name: VeraFischer
+favicon: null
+layout_spectrum: 0.8988574002869427
+typography_spectrum: 0.7637149216607213
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3844415077473968
+  lightness: 0.901078172493726
+  saturation: 0.49215331696905196
+  rhythmicContrast: 0.15695759328082204
+purpose: []
